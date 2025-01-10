@@ -3,5 +3,5 @@
 En este proyecto se realizan las siguientes tareas:
 
 - Conexión y carga de datos de una API pública de aeropuertos
-- Tratamiento, Limpieza y transformación de datos usando la librería Pandas de Python
-- Carga de datos homologados a una base de datos MySQL.
+- Tratamiento, Limpieza y transformación y normalización de datos usando la librería Pandas de Python
+- Carga de datos normalizados a una base de datos MySQL.
